@@ -29,7 +29,6 @@ import { LineChart } from '@mui/x-charts/LineChart';
 import {
   Table,
   TableBody,
-  TableCaption,
   TableCell,
   TableFooter,
   TableHead,
